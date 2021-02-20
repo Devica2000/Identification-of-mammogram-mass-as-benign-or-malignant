@@ -1,5 +1,5 @@
 # B-or-M
-The aim of this project is to identigy mammogram mass as benign or malignant. Several machine learning algorithms and neural networks will be used. At the end, I will do a comparison between all the approaches to see which one gives the best results. 
+The aim of this project is to identify mammogram mass as benign or malignant. Several machine learning algorithms and neural networks will be used. At the end, I will do a comparison between all the approaches to see which one gives the best results. 
 
 The first algorithms used is Decision Trees (with and without K-Fold validation) and Random Forest. 
 
