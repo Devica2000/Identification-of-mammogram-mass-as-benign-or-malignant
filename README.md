@@ -12,3 +12,6 @@ Accuracy with 'rbf' kernel = 80.12%
 Accuracy with 'linear' kernel = 79.64%
 Accuracy with 'sigmoid' kernel = 73.51%
 Accuracy with 'poly' kernel = 79.27%
+
+The third algorithm used is KNN. At K=10, the accuracy was 78.54%. 
+Checked the accuarcy at different values of K from 1 to 49. The maximum accuracy was 79.40% at K=7.
