@@ -19,3 +19,5 @@ Checked the accuarcy at different values of K from 1 to 49. The maximum accuracy
 The fourth algorithm used is Naive Bayes. Multinomial Naive Bayes has been used. It gives an accuracy of 78.44%.
 
 The next algorithm used is logistic regression. It gives an accuracy of 80.7% at cv=10.
+
+Lastly, neural networks have been implemented. It has an input layer with     input neurons. ReLu has been used as the optimizer here. The output layer has a single neuron since this is a binary classification problem. The optimer used is sigmoid. The binary crossentropy loss has been found and adam has been used as an optimizer. 
