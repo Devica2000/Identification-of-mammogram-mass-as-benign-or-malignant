@@ -15,3 +15,5 @@ Accuracy with 'poly' kernel = 79.27%
 
 The third algorithm used is KNN. At K=10, the accuracy was 78.54%. 
 Checked the accuarcy at different values of K from 1 to 49. The maximum accuracy was 79.40% at K=7.
+
+The fourth algorithm used is Naive Bayes. Multinomial Naive Bayes has been used. It gives an accuracy of 78.44%.
